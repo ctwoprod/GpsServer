@@ -1,0 +1,8 @@
+<html>
+<body>
+	<h1>Gps Server MVC REST web service</h1>
+	
+	<h3>Long : ${longitude}</h3>
+	<h3>Lat : ${latitude}</h3>	
+</body>
+</html>
